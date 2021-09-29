@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ESNext",
+        "allowJs": true,
+        "strict": true,
+        "outDir": "./dist",
+        "watch": true,
+        "esModuleInterop": true,
+        "declarationDir": "./typings",
+        "declaration": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
